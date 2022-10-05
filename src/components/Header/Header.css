@@ -1,0 +1,21 @@
+.header {
+  margin-top: 10px;
+}
+.header a {
+  text-decoration: none;
+  margin-left: 40px;
+  padding: 8px 15px;
+}
+.header a:hover {
+  background-color: blueviolet;
+  padding: 8px 15px;
+  color: azure;
+  border-radius: 8px;
+}
+
+.active {
+  background-color: blueviolet;
+  padding: 8px 15px;
+  color: azure;
+  border-radius: 8px;
+}
